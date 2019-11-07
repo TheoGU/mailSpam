@@ -1,7 +1,7 @@
 # Welcome to mailSpam 👋
 ![Version](https://img.shields.io/badge/version-1.1-blue.svg?cacheSeconds=2592000)
 
-> Application NodeJS to get list spam-mail
+> Application NodeJS to get list spam-mail :email: :squirrel:
 
 ## Install
 
@@ -12,7 +12,10 @@ npm install
 ## Usage
 
 ```sh
+Create :
 Create Folder DataBase and add file db.js with connection information MongoDB
+Use :
+node app.js
 ```
 
 ## Author
